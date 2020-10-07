@@ -1,0 +1,27 @@
+{
+  "name": "working_folder",
+  "version": "1.0.0",
+  "description": "this an introduction to node ",
+  "main": "app_21.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khaled abdalmoaty",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.15",
+    "body-parser": "^1.19.0",
+    "cookie-session": "^1.4.0",
+    "debug": "^4.1.1",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.10.6",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
